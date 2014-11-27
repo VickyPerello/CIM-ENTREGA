@@ -315,7 +315,7 @@ public class Automatizacion extends JFrame {
 		panelGrafico.add(pnTanquegris);
 		
 		JPanel panelSisternas = new JPanel();
-		JLabel cisternaLabel = new JLabel(createImageIcon("cisterna2.jpg"));
+		JLabel cisternaLabel = new JLabel(createImageIcon("tanque.jpg"));
 		panelSisternas.add(cisternaLabel);
 		initialText = "<html>\n"+ 
         		"<TABLE BGCOLOR=\"#1d1f21\" BORDER=\"1\" CELLPADDING=\"7\" CELLSPACING=\"0\">"+
@@ -337,7 +337,7 @@ public class Automatizacion extends JFrame {
         tuberia1Label.setVerticalAlignment(SwingConstants.CENTER);
         tuberia1Label.setHorizontalAlignment(SwingConstants.CENTER);
 		panelSisternas.add(tuberia1Label);
-		JLabel cisternaLabel1 = new JLabel(createImageIcon("cisterna2.jpg"));
+		JLabel cisternaLabel1 = new JLabel(createImageIcon("tanque.jpg"));
 		panelSisternas.add(cisternaLabel1);
 		initialText = "<html>\n"+ 
         		"<TABLE BGCOLOR=\"#1d1f21\" BORDER=\"1\" CELLPADDING=\"7\" CELLSPACING=\"0\">"+
@@ -359,7 +359,7 @@ public class Automatizacion extends JFrame {
         tuberia2Label.setVerticalAlignment(SwingConstants.CENTER);
         tuberia2Label.setHorizontalAlignment(SwingConstants.CENTER);
 		panelSisternas.add(tuberia2Label);
-		JLabel cisternaLabel2 = new JLabel(createImageIcon("cisterna2.jpg"));
+		JLabel cisternaLabel2 = new JLabel(createImageIcon("tanque.jpg"));
 		panelSisternas.add(cisternaLabel2);
 		initialText = "<html>\n"+ 
         		"<TABLE BGCOLOR=\"#1d1f21\" BORDER=\"1\" CELLPADDING=\"7\" CELLSPACING=\"0\">"+
