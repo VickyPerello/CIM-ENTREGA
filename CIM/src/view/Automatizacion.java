@@ -280,7 +280,7 @@ public class Automatizacion extends JFrame {
 		// Grafico Fila 1
 		JPanel pnTanquegris= new JPanel();
 		JButton rioButton = new JButton();
-		rioButton.setIcon(createImageIcon("titulo.jpg"));
+		rioButton.setIcon(createImageIcon("titulo.png"));
 		rioButton.addActionListener(new java.awt.event.ActionListener() {
 			public void actionPerformed(java.awt.event.ActionEvent evt) {
 				aguaGrisButtonActionPerformed(evt);
